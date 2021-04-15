@@ -1,6 +1,6 @@
 # x99a-msi-sli-krait-hackintosh-efi-big-sur
 
-opencore version: 0.6.6 
+opencore version: 0.6.8 
 
 mobo: MSI X99A SLI Krait
 
